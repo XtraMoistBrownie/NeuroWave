@@ -22,14 +22,6 @@ NeuroWave is an open-source project aimed at developing a Configurable Neural Pr
 
 We have a Trello workspace to keep track of our roadmap, you can access it [here](https://trello.com/b/eZEVjjEK/neurowave)! Please note that the roadmap is unfinished, and currently only elaborates on items currently being worked on.
 
-## Installation
-
-Unfortunately our installation instructions are currently incomplete, however we will be updating them as soon as possible!
-
-## Usage
-
-Unfortunately our usage instructions are currently incomplete, however we will be updating them as soon as possible!
-
 ## Contributors
 
 [MoistBrownie](https://github.com/XtraMoistBrownie)
@@ -51,4 +43,6 @@ Please let me know if you would like to see a discord server for the project, if
 
 ## Miscellaneous
 
-NeuroWave is the name given to the project only, and not any form of branding. As such the name of the project may be subject to change, and the final software/hardware ecosystem will likely not have the same name. We intend for the NeuroWave project page to stay up even after completion. In the event that we are forced to change the name for unforseen reasons, we will do everything in our power to keep the project accessable. Additionally, upon completion of the project we will likely migrate the code to an official repository. This repository will have the same licensing and code, however it will be a more official page. When we reach this stage the new official repository will be linked in the README of the NeuroWave project.
+NeuroWave is the name given to the project only, and not any form of branding. As such the name of the project may be subject to change, and the final software/hardware ecosystem will likely not have the same name. We intend for the NeuroWave project page to stay up even after completion. In the event that we are forced to change the name for unforeseen reasons, we will do everything in our power to keep the project accessible. Additionally, upon completion of the project we will likely migrate the code to an official repository. This repository will have the same licensing and code, however it will be a more official page. When we reach this stage the new official repository will be linked in the README of the NeuroWave project.
+
+Please understand that I have never created a project like this before, and one of the main driving factors was for this to be a learning experience for myself and anyone else interested in the project. Perfection is not expected, the primary goal of this project is to introduce the potential of this technology to the world, even if we fail to realize it ourselves.
