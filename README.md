@@ -6,8 +6,6 @@
 
 - [Introduction](#Introduction)
 - [Roadmap](#Roadmap)
-- [Installation](#Installation)
-- [Usage](#Usage)
 - [Contributors](#Contributors)
 - [How to Contribute](#How-to-Contribute)
 - [License](#License)
