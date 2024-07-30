@@ -40,7 +40,7 @@ If you would like to contribute, please contact me with the contact information 
 
 ## License
 
-This software is licensed under a GNU LESSER GENERAL PUBLIC LICENSE. See the LICENSE file for more information
+This software is licensed under a GNU LESSER GENERAL PUBLIC LICENSE Version 2.1. See the LICENSE file for more information
 
 ## Contact Information
 
